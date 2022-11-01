@@ -68,7 +68,7 @@ npm start
 
 | Page                                                                                                             | Items                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Landing page** <br /> <br /> /                                                                                 | <br /> <br /> Start page                                                                                                                               |
+| /landing <br /> /bookings <br /> /add-booking <br /> /settings                                                                | <br /> <br /> Start page                                                                                                                               |
 | /login POST <br /> /register POST <br /> /bookings GET POST PATCH DELETE <br /> /employees GET POST PATCH DELETE | login user <br /> register user <br /> CRUD bookings <br /> CRUD EMPLOYEES |
 
 ## Features
