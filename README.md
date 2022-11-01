@@ -69,7 +69,7 @@ npm start
 | Page                                                                                                             | Items                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Landing page** <br /> <br /> /                                                                                 | <br /> <br /> Start page                                                                                                                               |
-| **Login, signup, profile** <br /> <br /> /login <br /> /signup <br /> /profile <br /> /swipe <br /> /chat <br /> | <br /> <br /> <br /> create a user profile <br /> add all details about your doggy <br /> swipe on dogs <br /> place you can see and chat with matches |
+| **/login <br /> /signup <br /> /bookings GET POST PATCH DELETE <br /> /swipe <br /> /chat <br /> | <br /> <br /> <br /> create a user profile <br /> add all details about your doggy <br /> swipe on dogs <br /> place you can see and chat with matches |
 
 ## Features
 
