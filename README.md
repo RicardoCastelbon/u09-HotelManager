@@ -73,11 +73,11 @@ npm start
 
 ## Features
 
-### Register and Login User
+## Register and Login User
 
-### Create, see, update and delete your Bookings
+## Create, see, update and delete your Bookings
 
-### As an admin create, see, update and delete employees
+## As an admin create, see, update and delete employees
 
 ## Documentation
 
