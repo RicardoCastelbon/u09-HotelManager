@@ -82,7 +82,9 @@ npm start
 ## Documentation
 
 - Link to SiteMap
+
 - Link to google document
+
 - [Prototyping in Figma](https://www.figma.com/file/dOlEtZQwfJ3tQEaqL7Muzz/HotelManager?node-id=0%3A1)
 
 
