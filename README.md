@@ -10,10 +10,8 @@ Links to repositories:<br />
 
 * [General Information](#general-information)
 * [Technologies Used](#technologies-used)
-* [Page and Routes](#[page-and-routes])
+* [Pages and Routes](#[page-and-routes])
 * [Features](#features)
-* [Test](#test)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 * [License](#license)
 
