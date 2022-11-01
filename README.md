@@ -61,7 +61,7 @@ REQUEST_URL = http://localhost:3000
 npm start
 ```
 
-6. React runs at: http://localhost:3000/. Node runs at http://localhost:5000
+6. React runs at: http://localhost:3000/  <br /> Node runs at http://localhost:5000
 
 
 ## Page and Routes
