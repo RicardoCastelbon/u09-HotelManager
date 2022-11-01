@@ -1,8 +1,8 @@
 # HotelManager
 
-HotelManager is an application which objective is to allow Hotel owners to have control over their bookings aswell as have control over their employees. Live version here: [HotelManager](https://hotel-manager-app.netlify.app)
+HotelManager is an application which objective is to allow Hotel owners to have control over their bookings aswell as have control over their employees. Live version here:(Notice that the server is deployed with a free version of render which means that gets unactive after some time and needs to recive a request to start and will take some time)<br />  [HotelManager](https://hotel-manager-app.netlify.app)
 
-Links to repositories:(Notice that the server is deployed with a free version of render which means that gets unactive after some time and needs to recive a request to start and will take some time)<br />
+Links to repositories:
  [Frontend](https://github.com/RicardoCastelbon/u09-frontend-HotelManager)<br />
  [Backend](https://github.com/RicardoCastelbon/u09-backend-HotelManager)
 
